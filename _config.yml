@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Sam Goring"
-  pronouns         : "he/him"
+  pronouns         : "He/him"
   bio              : "PhD Candidate in Safe and Trusted AI"
   location         : "London, UK"
   employer         : "King's College London"
@@ -210,7 +210,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
